@@ -42,3 +42,8 @@ Comando	Descrição
 /alterar	Permite escolher um novo distrito
 /help	(Opcional) Mostra instruções básicas
 
+---
+
+<a href="https://www.buymeacoffee.com/GitXYZ08" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Apoia este projeto" width="200" />
+</a>
